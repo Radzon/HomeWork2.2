@@ -1,0 +1,11 @@
+﻿int[] new_arr = new int [5];
+new_arr[0] = 5;
+new_arr[1] = 7;
+new_arr[2] = 5;
+new_arr[3] = 4;
+new_arr[4] = 3;
+System.Console.WriteLine(new_arr[5]);
+System.Console.WriteLine(new_arr[1]);
+System.Console.WriteLine(new_arr[2]);
+System.Console.WriteLine(new_arr[3]);
+System.Console.WriteLine(new_arr[4]);
